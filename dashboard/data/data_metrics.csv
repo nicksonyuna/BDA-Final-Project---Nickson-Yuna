@@ -1,0 +1,2 @@
+accuracy,f1,weighted_precision,weighted_recall,sensitivity_recall_banjir,tn,fp,fn,tp
+0.6263,0.6892,0.8557,0.6263,0.7647,359,233,20,65

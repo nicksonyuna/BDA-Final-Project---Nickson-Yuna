@@ -1,0 +1,9 @@
+Fitur,Deskripsi,Bobot
+sro,Limpasan Permukaan (Surface Runoff),0.1635
+u10,Komponen Angin U (10m),0.1411
+tp,Curah Hujan (Total Precipitation),0.1359
+swvl1,Kelembapan Tanah Lapis 1,0.1288
+d2m,Suhu Titik Embun (2m),0.1172
+v10,Komponen Angin V (10m),0.1098
+t2m,Suhu Udara (2m),0.0982
+sp,Tekanan Permukaan,0.0855
